@@ -1,0 +1,51 @@
+EmployeeID,FirstName,LastName,Department,Position,Email,Phone,HireDate,Salary,Location
+1,John,Smith,Engineering,Software Engineer,john.smith@example.com,555-1234,2020-01-15,90000,New York
+2,Jane,Doe,Marketing,Marketing Manager,jane.doe@example.com,555-2345,2019-03-22,85000,San Francisco
+3,Michael,Brown,Sales,Sales Executive,michael.brown@example.com,555-3456,2018-06-30,80000,Chicago
+4,Linda,White,HR,HR Specialist,linda.white@example.com,555-4567,2021-08-10,75000,Los Angeles
+5,David,Johnson,Finance,Accountant,david.johnson@example.com,555-5678,2017-02-17,70000,Houston
+6,Emily,Jones,Engineering,DevOps Engineer,emily.jones@example.com,555-6789,2022-11-05,95000,New York
+7,Chris,Miller,IT,System Administrator,chris.miller@example.com,555-7890,2016-09-29,88000,Boston
+8,Patricia,Davis,Customer Service,Customer Service Rep,patricia.davis@example.com,555-8901,2018-05-12,62000,Atlanta
+9,Daniel,Garcia,Engineering,Data Scientist,daniel.garcia@example.com,555-9012,2019-04-25,98000,San Francisco
+10,Susan,Martinez,Legal,Legal Counsel,susan.martinez@example.com,555-0123,2020-07-13,105000,Chicago
+11,James,Rodriguez,Engineering,Software Engineer,james.rodriguez@example.com,555-2346,2021-01-14,92000,New York
+12,Mary,Hernandez,Marketing,Content Strategist,mary.hernandez@example.com,555-3457,2019-03-23,87000,San Francisco
+13,Robert,Moore,Sales,Sales Manager,robert.moore@example.com,555-4568,2018-06-31,82000,Chicago
+14,Jennifer,Taylor,HR,Recruiter,jennifer.taylor@example.com,555-5679,2021-08-11,76000,Los Angeles
+15,William,Anderson,Finance,Financial Analyst,william.anderson@example.com,555-6780,2017-02-18,72000,Houston
+16,Linda,Thomas,Engineering,QA Engineer,linda.thomas@example.com,555-7891,2022-11-06,93000,New York
+17,Barbara,Jackson,IT,Network Engineer,barbara.jackson@example.com,555-8902,2016-09-30,89000,Boston
+18,Charles,Lee,Customer Service,Customer Success Manager,charles.lee@example.com,555-9013,2018-05-13,64000,Atlanta
+19,Thomas,Walker,Engineering,Backend Developer,thomas.walker@example.com,555-0124,2019-04-26,99000,San Francisco
+20,Elizabeth,Hall,Legal,Paralegal,elizabeth.hall@example.com,555-2347,2020-07-14,106000,Chicago
+21,Paul,Lopez,Engineering,Software Engineer,paul.lopez@example.com,555-3458,2021-01-15,94000,New York
+22,Nancy,Harris,Marketing,Marketing Specialist,nancy.harris@example.com,555-4569,2019-03-24,88000,San Francisco
+23,Kevin,Clark,Sales,Sales Associate,kevin.clark@example.com,555-5670,2018-07-01,84000,Chicago
+24,Donna,Lewis,HR,HR Generalist,donna.lewis@example.com,555-6781,2021-08-12,77000,Los Angeles
+25,Jason,Robinson,Finance,Controller,jason.robinson@example.com,555-7892,2017-02-19,74000,Houston
+26,Karen,Walker,Engineering,Data Engineer,karen.walker@example.com,555-8903,2022-11-07,96000,New York
+27,Michelle,Young,IT,IT Support Specialist,michelle.young@example.com,555-9014,2016-10-01,90000,Boston
+28,Lisa,King,Customer Service,Customer Service Manager,lisa.king@example.com,555-0125,2018-05-14,66000,Atlanta
+29,Steven,Scott,Engineering,Frontend Developer,steven.scott@example.com,555-2348,2019-04-27,100000,San Francisco
+30,Dorothy,Green,Legal,Legal Assistant,dorothy.green@example.com,555-3459,2020-07-15,107000,Chicago
+31,Mark,Adams,Engineering,Software Engineer,mark.adams@example.com,555-4570,2021-01-16,96000,New York
+32,Patricia,Baker,Marketing,Social Media Manager,patricia.baker@example.com,555-5671,2019-03-25,89000,San Francisco
+33,Thomas,Gonzalez,Sales,Sales Director,thomas.gonzalez@example.com,555-6782,2018-07-02,86000,Chicago
+34,Betty,Nelson,HR,HR Manager,betty.nelson@example.com,555-7893,2021-08-13,78000,Los Angeles
+35,George,Mitchell,Finance,Tax Specialist,george.mitchell@example.com,555-8904,2017-02-20,76000,Houston
+36,Dorothy,Perez,Engineering,Machine Learning Engineer,dorothy.perez@example.com,555-9015,2022-11-08,97000,New York
+37,Linda,Roberts,IT,Security Analyst,linda.roberts@example.com,555-0126,2016-10-02,91000,Boston
+38,Michael,Turner,Customer Service,Technical Support,michael.turner@example.com,555-2349,2018-05-15,68000,Atlanta
+39,James,Phillips,Engineering,Mobile Developer,james.phillips@example.com,555-3460,2019-04-28,101000,San Francisco
+40,Deborah,Campbell,Legal,Corporate Counsel,deborah.campbell@example.com,555-4571,2020-07-16,108000,Chicago
+41,Larry,Parker,Engineering,Software Engineer,larry.parker@example.com,555-5672,2021-01-17,98000,New York
+42,Stephanie,Evans,Marketing,PR Specialist,stephanie.evans@example.com,555-6783,2019-03-26,90000,San Francisco
+43,Jeffrey,Edwards,Sales,Account Manager,jeffrey.edwards@example.com,555-7894,2018-07-03,88000,Chicago
+44,Rebecca,Collins,HR,Training Specialist,rebecca.collins@example.com,555-8905,2021-08-14,79000,Los Angeles
+45,Anthony,Stewart,Finance,Financial Planner,anthony.stewart@example.com,555-9016,2017-02-21,78000,Houston
+46,Melissa,Sanford,Engineering,Cloud Engineer,melissa.sanford@example.com,555-0127,2022-11-09,98000,New York
+47,Amy,Murphy,IT,IT Consultant,amy.murphy@example.com,555-2340,2016-10-03,92000,Boston
+48,Brenda,Wilson,Customer Service,Customer Service Rep,brenda.wilson@example.com,555-3451,2018-05-16,70000,Atlanta
+49,Ronald,Lopez,Engineering,Full Stack Developer,ronald.lopez@example.com,555-4562,2019-04-29,102000,San Francisco
+50,Sarah,Allen,Legal,General Counsel,sarah.allen@example.com,555-5673,2020-07-17,109000,Chicago
